@@ -1,0 +1,15 @@
+C:\Users\hikar\source\repos\BankApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hikar\source\repos\BankApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hikar\source\repos\BankApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hikar\source\repos\BankApp\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\hikar\source\repos\BankApp\bin\Debug\BankApp.dll
+C:\Users\hikar\source\repos\BankApp\bin\Debug\BankApp.pdb
+C:\Users\hikar\source\repos\BankApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hikar\source\repos\BankApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hikar\source\repos\BankApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hikar\source\repos\BankApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hikar\source\repos\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\hikar\source\repos\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\hikar\source\repos\BankApp\obj\Debug\BankApp.csproj.CopyComplete
+C:\Users\hikar\source\repos\BankApp\obj\Debug\BankApp.dll
+C:\Users\hikar\source\repos\BankApp\obj\Debug\BankApp.pdb
